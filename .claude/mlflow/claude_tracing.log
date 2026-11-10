@@ -1,5 +1,0 @@
-2026-11-10 12:15:20,946 - mlflow.claude_code.tracing - WARNING - Failed to set experiment: 401: Credential was not sent or was of an unsupported type for this API. [ReqId: eb4c77f9-3cd1-4580-bfc9-bd101c94794f]
-2026-11-10 12:15:20,947 - mlflow.claude_code.tracing - CLAUDE_TRACING - Stop hook: session=4ccbd9e7-afa6-42eb-885d-9e2bc6067af3, transcript=/Users/justin.monaldo/.claude/projects/-Users-justin-monaldo-Documents-experimentation-databricks-ai-functions-emulators/4ccbd9e7-afa6-42eb-885d-9e2bc6067af3.jsonl
-2026-11-10 12:15:20,951 - mlflow.claude_code.tracing - CLAUDE_TRACING - Creating MLflow trace for session: 4ccbd9e7-afa6-42eb-885d-9e2bc6067af3
-2026-11-10 12:15:21,681 - mlflow.claude_code.tracing - WARNING - Failed to update trace metadata and previews: 'NoneType' object has no attribute 'info'
-2026-11-10 12:15:21,681 - mlflow.claude_code.tracing - CLAUDE_TRACING - Created MLflow trace: MLFLOW_NO_OP_SPAN_TRACE_ID
